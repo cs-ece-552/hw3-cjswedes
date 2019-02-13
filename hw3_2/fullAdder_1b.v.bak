@@ -15,7 +15,6 @@ module fullAdder_1b(A, B, C_in, S, C_out);
     // YOUR CODE HERE
     //Sum logic
     xor3 s_logic(.in1(A), .in2(B), .in3(C_in), .out(S));
-    
     //Cout logic
     //level one
     nor2 l1a(.in1(A), .in2(B), .out(w7));
@@ -27,6 +26,5 @@ module fullAdder_1b(A, B, C_in, S, C_out);
     not1 l2d(.in1(w5), .out(w4));
     //level 3
     nor2 l3a(.in1(w2), .in2(w4), .out(w3));
-    not1 l3b(.in1(w3), .out(C_out));
 
 endmodule

@@ -17,6 +17,6 @@ module mux4_1(InA, InB, InC, InD, S, Out);
     // YOUR CODE HERE
     mux2_1 mAB(.InA(InA), .InB(InB), .S(S[0]), .Out(wAB));
     mux2_1 mCD(.InA(InC), .InB(InD), .S(S[0]), .Out(wCD));
-    mux2_1 mOUT(.InA(wAB), .InB(wCD), .S(S[1]), .Out(out));
+    mux2_1 mOUT(.InA(wCD), .InB(wAB), .S(S[1]), .Out(Out));
 
 endmodule

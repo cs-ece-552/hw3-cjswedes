@@ -14,8 +14,8 @@ module mux2_1(InA, InB, S, Out);
     // YOUR CODE HERE
     
     not1  N1(.in1(S), .out(ws_n));
-    nand2 NA1(.in1(S), .in2(InA), .out(wA));
-    nand2 NA2(.in1(ws_n), .in2(InB), .out(wB));
-    nand2 NA3(.in1(wA), .in2(wB), .out(out));   
+    nand2 NA1(.in1(ws_n), .in2(InA), .out(wA));
+    nand2 NA2(.in1(S), .in2(InB), .out(wB));
+    nand2 NA3(.in1(wA), .in2(wB), .out(Out));   
 
 endmodule
