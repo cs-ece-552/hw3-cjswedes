@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes
+vclkrst
+Z1 !s110 1550036185
+!i10b 1
+!s100 d1=HFa9@5T7JH2L8mb3gE1
+I@UE>S@@XB1=X5EhmB4NVk3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1550034374
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/clkrst.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/clkrst.v
+L0 12
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1550036185.000000
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/clkrst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/clkrst.v|
+!i113 1
+Z6 o-work work
+vmux2_1
+!s110 1550036203
+!i10b 1
+!s100 Do@Y<2N?5KLg^jcN7z;DL0
+IZEZHb5LImHB2l?6HKdGka3
+R2
+R0
+w1550036202
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux2_1.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux2_1.v
+L0 9
+R4
+r1
+!s85 0
+31
+!s108 1550036203.000000
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux2_1.v|
+!i113 1
+R6
+vmux4_1
+!s110 1550037728
+!i10b 1
+!s100 =UYmBd6NBU74e_@<Z7;Kc0
+IXmCg_gkLFn<U6YQ4SXGR00
+R2
+R0
+w1550037721
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1.v
+L0 11
+R4
+r1
+!s85 0
+31
+!s108 1550037728.000000
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1.v|
+!i113 1
+R6
+vmux4_1_4b
+!s110 1550037597
+!i10b 1
+!s100 kWlM]CXFl7l=G:j=^;dlV3
+IVB:4Bg2HMIkD0chmDOV<_1
+R2
+R0
+w1550037594
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b.v
+L0 7
+R4
+r1
+!s85 0
+31
+!s108 1550037597.000000
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b.v|
+!i113 1
+R6
+vmux4_1_4b_bench
+Z7 !s110 1550036186
+!i10b 1
+!s100 m:B6MGYP=F6o]o6FTQ?]`0
+IVK:ZZ4>2Xo`Kih>]NF4Zz1
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b_bench.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b_bench.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z8 !s108 1550036186.000000
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/mux4_1_4b_bench.v|
+!i113 1
+R6
+vnand2
+R7
+!i10b 1
+!s100 @JLnM_lV[dSoG<b5oFSbC0
+IYd@zIJTl4^[^cFfX5dzNQ1
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand2.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand2.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand2.v|
+!i113 1
+R6
+vnand3
+R7
+!i10b 1
+!s100 74U72gSXNGQC9QQ_6Vl@m3
+IXhCmg268BaDY^`@QbDd093
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand3.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand3.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nand3.v|
+!i113 1
+R6
+vnor2
+R7
+!i10b 1
+!s100 zLY;3kAfYGCBXK2?=fzNd1
+IU9fn9FQG?`_Y7So`XK67O3
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor2.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor2.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor2.v|
+!i113 1
+R6
+vnor3
+R7
+!i10b 1
+!s100 M15<fJBSa=`jENU]=JkSO2
+I@94Y6fAOV=NS0Q3DlzI5>0
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor3.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor3.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/nor3.v|
+!i113 1
+R6
+vnot1
+R1
+!i10b 1
+!s100 E;?=8[YGePDM35<9b7^jF3
+Iae5N=Xzdl_:zgbRZk8PGH0
+R2
+R0
+R3
+8C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/not1.v
+FC:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/not1.v
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/not1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cswedal/Desktop/552/vsim_stuff/hw3-cjswedes/hw3_1/not1.v|
+!i113 1
+R6
